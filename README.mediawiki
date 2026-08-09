@@ -1513,6 +1513,13 @@ users (see also: [https://en.bitcoin.it/wiki/Economic_majority economic majority
 | bubb1es, haris
 | Specification
 | Draft
+|-
+| [[bip-0911.md|911]]
+| Applications
+| Reduced Discourse Temporary Softfork (RDTS-2)
+| Dathon Ohm II, Amir Takki
+| Specification
+| Draft
 |}
 
 <!-- IMPORTANT!  See the instructions at the top of this page, do NOT JUST add BIPs here! -->
